@@ -1,3 +1,9 @@
+self-using
+Operating system:
+1  MIT course and its online book  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/lecture-notes-and-readings/
+2  berkeley  https://inst.eecs.berkeley.edu/~cs162/sp15/
+3  stanford   http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php
+and resources in local folder.
 # Awesome CS Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
